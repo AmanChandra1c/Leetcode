@@ -11,6 +11,7 @@ Leetcode submissions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AmanChandra1c/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -18,6 +19,7 @@ Leetcode submissions
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AmanChandra1c/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Database
@@ -42,4 +44,12 @@ Leetcode submissions
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
