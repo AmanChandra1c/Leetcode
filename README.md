@@ -36,10 +36,12 @@ Leetcode submissions
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
