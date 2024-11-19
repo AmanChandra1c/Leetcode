@@ -8,6 +8,7 @@ Leetcode submissions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AmanChandra1c/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -73,4 +74,8 @@ Leetcode submissions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AmanChandra1c/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
