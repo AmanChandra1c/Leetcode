@@ -26,6 +26,7 @@ Leetcode submissions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/AmanChandra1c/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -44,6 +45,7 @@ Leetcode submissions
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
