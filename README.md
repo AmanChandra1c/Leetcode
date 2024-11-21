@@ -10,6 +10,7 @@ Leetcode submissions
 | [0142-linked-list-cycle-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1848-sum-of-unique-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AmanChandra1c/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Linked List
 |  |
 | ------- |
@@ -81,8 +82,10 @@ Leetcode submissions
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AmanChandra1c/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AmanChandra1c/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
