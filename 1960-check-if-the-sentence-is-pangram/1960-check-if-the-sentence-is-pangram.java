@@ -1,11 +1,8 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-       ArrayList<Character> hm = new ArrayList<>();
-        for(char ch : sentence.toCharArray()){
-            hm.add(ch);
-        }
+        if(sentence.length() < 24) return false;
         for(char ch = 'a'; ch <= 'z'; ch++){
-            if(!hm.contains(ch)) return false;
+            if(sentence.indexOf(ch) == -1) return false;
         }
         return true;
     }
