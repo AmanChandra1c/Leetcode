@@ -1,19 +1,15 @@
-import java.math.BigInteger;
 class Solution {
     public int[] plusOne(int[] digits) {
-        BigInteger sum = BigInteger.ZERO;
-        for(int i : digits){
-            sum = sum.multiply(BigInteger.TEN).add(BigInteger.valueOf(i));
+        int n = digits.length;
+        for(int i = n-1; i >= 0; i--){
+            if(digits[i] < 9){
+                digits[i]++;
+                return digits;
+            }
+            digits[i] = 0;
         }
-       sum = sum.add(BigInteger.ONE);
-        String s = String.valueOf(sum);
-        String[] a = s.split("");
-        int[] arr = new int[a.length];
-        int i = 0;
-        for(String j : a){
-            arr[i] = Integer.parseInt(j);
-            i++;
-        }
-        return arr;
+        int[] number = new int[n+1];
+        number[0] = 1;
+        return number;
     }
 }
