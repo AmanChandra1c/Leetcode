@@ -17,6 +17,7 @@ Leetcode submissions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AmanChandra1c/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AmanChandra1c/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -69,6 +70,7 @@ Leetcode submissions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AmanChandra1c/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -88,6 +90,7 @@ Leetcode submissions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AmanChandra1c/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AmanChandra1c/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## String
