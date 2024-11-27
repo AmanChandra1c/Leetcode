@@ -14,6 +14,7 @@ Leetcode submissions
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AmanChandra1c/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AmanChandra1c/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/AmanChandra1c/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2825-minimize-string-length](https://github.com/AmanChandra1c/Leetcode/tree/master/2825-minimize-string-length) |
 ## Linked List
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Leetcode submissions
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AmanChandra1c/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AmanChandra1c/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/AmanChandra1c/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2825-minimize-string-length](https://github.com/AmanChandra1c/Leetcode/tree/master/2825-minimize-string-length) |
 ## Counting
 |  |
 | ------- |
