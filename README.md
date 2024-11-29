@@ -43,6 +43,7 @@ Leetcode submissions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/AmanChandra1c/Leetcode/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/AmanChandra1c/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -67,6 +68,7 @@ Leetcode submissions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/AmanChandra1c/Leetcode/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
