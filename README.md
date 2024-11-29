@@ -97,6 +97,7 @@ Leetcode submissions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AmanChandra1c/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
@@ -108,6 +109,7 @@ Leetcode submissions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AmanChandra1c/Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AmanChandra1c/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AmanChandra1c/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
