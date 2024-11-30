@@ -90,6 +90,7 @@ Leetcode submissions
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
 | [2083-three-divisors](https://github.com/AmanChandra1c/Leetcode/tree/master/2083-three-divisors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanChandra1c/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2491-smallest-even-multiple](https://github.com/AmanChandra1c/Leetcode/tree/master/2491-smallest-even-multiple) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
@@ -175,4 +176,5 @@ Leetcode submissions
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/AmanChandra1c/Leetcode/tree/master/2083-three-divisors) |
+| [2491-smallest-even-multiple](https://github.com/AmanChandra1c/Leetcode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
