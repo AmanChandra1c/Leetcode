@@ -88,6 +88,7 @@ Leetcode submissions
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanChandra1c/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
+| [2083-three-divisors](https://github.com/AmanChandra1c/Leetcode/tree/master/2083-three-divisors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanChandra1c/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -166,4 +167,12 @@ Leetcode submissions
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanChandra1c/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/AmanChandra1c/Leetcode/tree/master/2083-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/AmanChandra1c/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
