@@ -53,6 +53,7 @@ Leetcode submissions
 | [0234-palindrome-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/AmanChandra1c/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Database
 |  |
@@ -75,6 +76,7 @@ Leetcode submissions
 | [0162-find-peak-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanChandra1c/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0260-single-number-iii](https://github.com/AmanChandra1c/Leetcode/tree/master/0260-single-number-iii) |
+| [0941-sort-array-by-parity](https://github.com/AmanChandra1c/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1580-shuffle-the-array](https://github.com/AmanChandra1c/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1848-sum-of-unique-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -136,6 +138,7 @@ Leetcode submissions
 | ------- |
 | [0147-insertion-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0148-sort-list) |
+| [0941-sort-array-by-parity](https://github.com/AmanChandra1c/Leetcode/tree/master/0941-sort-array-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
