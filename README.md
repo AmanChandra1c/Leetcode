@@ -81,6 +81,7 @@ Leetcode submissions
 | [0941-sort-array-by-parity](https://github.com/AmanChandra1c/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1580-shuffle-the-array](https://github.com/AmanChandra1c/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1848-sum-of-unique-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [2836-neither-minimum-nor-maximum](https://github.com/AmanChandra1c/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
@@ -145,6 +146,7 @@ Leetcode submissions
 | [0148-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0148-sort-list) |
 | [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/AmanChandra1c/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [2836-neither-minimum-nor-maximum](https://github.com/AmanChandra1c/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Merge Sort
 |  |
 | ------- |
