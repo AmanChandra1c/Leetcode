@@ -88,6 +88,7 @@ Leetcode submissions
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanChandra1c/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/AmanChandra1c/Leetcode/tree/master/0231-power-of-two) |
 | [2083-three-divisors](https://github.com/AmanChandra1c/Leetcode/tree/master/2083-three-divisors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanChandra1c/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2491-smallest-even-multiple](https://github.com/AmanChandra1c/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -113,6 +114,7 @@ Leetcode submissions
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanChandra1c/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AmanChandra1c/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/AmanChandra1c/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
@@ -134,6 +136,7 @@ Leetcode submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AmanChandra1c/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AmanChandra1c/Leetcode/tree/master/0260-single-number-iii) |
 | [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/AmanChandra1c/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
