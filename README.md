@@ -10,6 +10,7 @@ Leetcode submissions
 | [0142-linked-list-cycle-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanChandra1c/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
 | [1848-sum-of-unique-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AmanChandra1c/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AmanChandra1c/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -114,6 +115,7 @@ Leetcode submissions
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmanChandra1c/Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AmanChandra1c/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AmanChandra1c/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -129,6 +131,7 @@ Leetcode submissions
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/AmanChandra1c/Leetcode/tree/master/0260-single-number-iii) |
+| [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/AmanChandra1c/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Divide and Conquer
 |  |
@@ -140,6 +143,7 @@ Leetcode submissions
 | ------- |
 | [0147-insertion-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0148-sort-list) |
+| [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/AmanChandra1c/Leetcode/tree/master/0941-sort-array-by-parity) |
 ## Merge Sort
 |  |
