@@ -62,6 +62,7 @@ Leetcode submissions
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AmanChandra1c/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmanChandra1c/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Database
 |  |
 | ------- |
@@ -140,6 +141,7 @@ Leetcode submissions
 | [2232-adding-spaces-to-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/AmanChandra1c/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2825-minimize-string-length](https://github.com/AmanChandra1c/Leetcode/tree/master/2825-minimize-string-length) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmanChandra1c/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Counting
 |  |
 | ------- |
