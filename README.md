@@ -17,6 +17,7 @@ Leetcode submissions
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AmanChandra1c/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AmanChandra1c/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/AmanChandra1c/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2825-minimize-string-length](https://github.com/AmanChandra1c/Leetcode/tree/master/2825-minimize-string-length) |
 ## Linked List
 |  |
@@ -92,6 +93,7 @@ Leetcode submissions
 | [1580-shuffle-the-array](https://github.com/AmanChandra1c/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1848-sum-of-unique-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AmanChandra1c/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
@@ -173,6 +175,7 @@ Leetcode submissions
 | [0941-sort-array-by-parity](https://github.com/AmanChandra1c/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanChandra1c/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanChandra1c/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AmanChandra1c/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 ## Merge Sort
 |  |
@@ -187,11 +190,13 @@ Leetcode submissions
 | [0162-find-peak-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanChandra1c/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanChandra1c/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanChandra1c/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Enumeration
 |  |
 | ------- |
