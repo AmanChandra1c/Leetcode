@@ -95,6 +95,7 @@ Leetcode submissions
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanChandra1c/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1580-shuffle-the-array](https://github.com/AmanChandra1c/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1848-sum-of-unique-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/1848-sum-of-unique-elements) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AmanChandra1c/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AmanChandra1c/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -193,6 +194,7 @@ Leetcode submissions
 | [0162-find-peak-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanChandra1c/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanChandra1c/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AmanChandra1c/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
