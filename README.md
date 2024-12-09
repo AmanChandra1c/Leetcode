@@ -100,6 +100,7 @@ Leetcode submissions
 | [2232-adding-spaces-to-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AmanChandra1c/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3427-special-array-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
 |  |
@@ -200,6 +201,7 @@ Leetcode submissions
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AmanChandra1c/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/AmanChandra1c/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -224,4 +226,8 @@ Leetcode submissions
 | ------- |
 | [0392-is-subsequence](https://github.com/AmanChandra1c/Leetcode/tree/master/0392-is-subsequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/AmanChandra1c/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->
