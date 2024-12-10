@@ -19,6 +19,7 @@ Leetcode submissions
 | [2427-first-letter-to-appear-twice](https://github.com/AmanChandra1c/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2825-minimize-string-length](https://github.com/AmanChandra1c/Leetcode/tree/master/2825-minimize-string-length) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Linked List
 |  |
 | ------- |
@@ -155,12 +156,14 @@ Leetcode submissions
 | [2427-first-letter-to-appear-twice](https://github.com/AmanChandra1c/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [2825-minimize-string-length](https://github.com/AmanChandra1c/Leetcode/tree/master/2825-minimize-string-length) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/AmanChandra1c/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
 | ------- |
 | [1848-sum-of-unique-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AmanChandra1c/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/AmanChandra1c/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -201,6 +204,7 @@ Leetcode submissions
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AmanChandra1c/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/AmanChandra1c/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |
@@ -230,4 +234,8 @@ Leetcode submissions
 |  |
 | ------- |
 | [3427-special-array-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/3427-special-array-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
