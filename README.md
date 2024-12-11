@@ -103,6 +103,7 @@ Leetcode submissions
 | [2232-adding-spaces-to-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AmanChandra1c/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanChandra1c/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
@@ -191,6 +192,7 @@ Leetcode submissions
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanChandra1c/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AmanChandra1c/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanChandra1c/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Merge Sort
 |  |
 | ------- |
@@ -207,6 +209,7 @@ Leetcode submissions
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AmanChandra1c/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/AmanChandra1c/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AmanChandra1c/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanChandra1c/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/3427-special-array-ii) |
 ## Greedy
@@ -240,5 +243,6 @@ Leetcode submissions
 ## Sliding Window
 |  |
 | ------- |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanChandra1c/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
