@@ -107,6 +107,7 @@ Leetcode submissions
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AmanChandra1c/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/AmanChandra1c/Leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2868-continuous-subarrays](https://github.com/AmanChandra1c/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanChandra1c/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/3427-special-array-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -129,6 +130,7 @@ Leetcode submissions
 | [2164-two-best-non-overlapping-events](https://github.com/AmanChandra1c/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AmanChandra1c/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/AmanChandra1c/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -253,6 +255,19 @@ Leetcode submissions
 ## Sliding Window
 |  |
 | ------- |
+| [2868-continuous-subarrays](https://github.com/AmanChandra1c/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AmanChandra1c/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AmanChandra1c/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/AmanChandra1c/Leetcode/tree/master/2868-continuous-subarrays) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/AmanChandra1c/Leetcode/tree/master/2868-continuous-subarrays) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/AmanChandra1c/Leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
