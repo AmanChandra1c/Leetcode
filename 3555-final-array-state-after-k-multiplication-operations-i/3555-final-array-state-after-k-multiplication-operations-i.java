@@ -1,17 +1,13 @@
 class Solution {
     public int[] getFinalState(int[] nums, int k, int multiplier) {
-        int small = Integer.MAX_VALUE;
-        for(int i = 0; i < k; i++){
-            for(int j = 0; j < nums.length; j++){
-                small = Math.min(nums[j],small);
-                }
-            for(int j = 0; j < nums.length; j++){
-                if(nums[j] == small){
-                    nums[j] = nums[j] * multiplier;
-                    small = Integer.MAX_VALUE;
-                    break;
+         for (int operation = 0; operation < k; operation++) {
+             int minIdx = 0;
+            for (int i = 1; i < nums.length; i++) {
+                if (nums[i] < nums[minIdx]) {
+                    minIdx = i;
                 }
             }
+            nums[minIdx] *= multiplier;
         }
         return nums;
     }
