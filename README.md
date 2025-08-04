@@ -47,6 +47,7 @@ Leetcode submissions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AmanChandra1c/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0027-remove-element) |
@@ -85,6 +86,7 @@ Leetcode submissions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AmanChandra1c/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AmanChandra1c/Leetcode/tree/master/0031-next-permutation) |
@@ -233,6 +235,7 @@ Leetcode submissions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AmanChandra1c/Leetcode/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/AmanChandra1c/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanChandra1c/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
