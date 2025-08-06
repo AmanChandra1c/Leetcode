@@ -97,6 +97,7 @@ Leetcode submissions
 | [0041-first-missing-positive](https://github.com/AmanChandra1c/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/AmanChandra1c/Leetcode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0162-find-peak-element) |
@@ -263,6 +264,7 @@ Leetcode submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/AmanChandra1c/Leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/AmanChandra1c/Leetcode/tree/master/0392-is-subsequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/AmanChandra1c/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Prefix Sum
