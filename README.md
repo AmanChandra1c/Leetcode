@@ -97,6 +97,7 @@ Leetcode submissions
 | [0041-first-missing-positive](https://github.com/AmanChandra1c/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/AmanChandra1c/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/AmanChandra1c/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AmanChandra1c/Leetcode/tree/master/0118-pascals-triangle) |
@@ -148,6 +149,7 @@ Leetcode submissions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AmanChandra1c/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AmanChandra1c/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -300,4 +302,5 @@ Leetcode submissions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AmanChandra1c/Leetcode/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
