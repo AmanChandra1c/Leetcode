@@ -53,6 +53,7 @@ Leetcode submissions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/AmanChandra1c/Leetcode/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -174,6 +175,7 @@ Leetcode submissions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmanChandra1c/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
@@ -270,6 +272,7 @@ Leetcode submissions
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AmanChandra1c/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Dynamic Programming
 |  |
