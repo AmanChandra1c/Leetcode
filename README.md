@@ -11,6 +11,7 @@ Leetcode submissions
 | [0142-linked-list-cycle-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanChandra1c/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/AmanChandra1c/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanChandra1c/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1848-sum-of-unique-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/1848-sum-of-unique-elements) |
@@ -180,6 +181,7 @@ Leetcode submissions
 | [0179-largest-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/AmanChandra1c/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AmanChandra1c/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -196,6 +198,7 @@ Leetcode submissions
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/AmanChandra1c/Leetcode/tree/master/0383-ransom-note) |
 | [1848-sum-of-unique-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AmanChandra1c/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AmanChandra1c/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
