@@ -12,6 +12,7 @@ Leetcode submissions
 | [0142-linked-list-cycle-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanChandra1c/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AmanChandra1c/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AmanChandra1c/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanChandra1c/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -185,6 +186,7 @@ Leetcode submissions
 | [0058-length-of-last-word](https://github.com/AmanChandra1c/Leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/AmanChandra1c/Leetcode/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AmanChandra1c/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
@@ -231,6 +233,7 @@ Leetcode submissions
 | [0147-insertion-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/AmanChandra1c/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/AmanChandra1c/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanChandra1c/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
