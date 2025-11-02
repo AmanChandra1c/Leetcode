@@ -182,6 +182,7 @@ Leetcode submissions
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmanChandra1c/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/AmanChandra1c/Leetcode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
