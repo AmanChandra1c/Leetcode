@@ -13,6 +13,7 @@ Leetcode submissions
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanChandra1c/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AmanChandra1c/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/AmanChandra1c/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AmanChandra1c/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanChandra1c/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -187,6 +188,7 @@ Leetcode submissions
 | [0179-largest-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AmanChandra1c/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/AmanChandra1c/Leetcode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AmanChandra1c/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
