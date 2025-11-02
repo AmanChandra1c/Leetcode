@@ -100,6 +100,7 @@ Leetcode submissions
 | [0027-remove-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AmanChandra1c/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/AmanChandra1c/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/AmanChandra1c/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/AmanChandra1c/Leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/AmanChandra1c/Leetcode/tree/master/0054-spiral-matrix) |
@@ -246,6 +247,7 @@ Leetcode submissions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanChandra1c/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/AmanChandra1c/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0162-find-peak-element) |
