@@ -141,6 +141,7 @@ Leetcode submissions
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/AmanChandra1c/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AmanChandra1c/Leetcode/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/AmanChandra1c/Leetcode/tree/master/0412-fizz-buzz) |
 | [2083-three-divisors](https://github.com/AmanChandra1c/Leetcode/tree/master/2083-three-divisors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanChandra1c/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2491-smallest-even-multiple](https://github.com/AmanChandra1c/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -162,6 +163,7 @@ Leetcode submissions
 | ------- |
 | [0054-spiral-matrix](https://github.com/AmanChandra1c/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/AmanChandra1c/Leetcode/tree/master/0412-fizz-buzz) |
 | [2232-adding-spaces-to-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AmanChandra1c/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -195,6 +197,7 @@ Leetcode submissions
 | [0383-ransom-note](https://github.com/AmanChandra1c/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AmanChandra1c/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/AmanChandra1c/Leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AmanChandra1c/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AmanChandra1c/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
