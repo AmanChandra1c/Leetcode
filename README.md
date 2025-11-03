@@ -152,6 +152,7 @@ Leetcode submissions
 | [0268-missing-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AmanChandra1c/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/AmanChandra1c/Leetcode/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0507-perfect-number) |
 | [2083-three-divisors](https://github.com/AmanChandra1c/Leetcode/tree/master/2083-three-divisors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanChandra1c/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2491-smallest-even-multiple](https://github.com/AmanChandra1c/Leetcode/tree/master/2491-smallest-even-multiple) |
