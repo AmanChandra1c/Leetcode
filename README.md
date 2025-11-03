@@ -62,6 +62,7 @@ Leetcode submissions
 | [0027-remove-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/AmanChandra1c/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/AmanChandra1c/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AmanChandra1c/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -113,6 +114,7 @@ Leetcode submissions
 | [0054-spiral-matrix](https://github.com/AmanChandra1c/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/AmanChandra1c/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/AmanChandra1c/Leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0136-single-number) |
@@ -251,6 +253,7 @@ Leetcode submissions
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AmanChandra1c/Leetcode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/AmanChandra1c/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0148-sort-list) |
