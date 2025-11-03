@@ -11,6 +11,7 @@ Leetcode submissions
 | [0141-linked-list-cycle](https://github.com/AmanChandra1c/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanChandra1c/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AmanChandra1c/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AmanChandra1c/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanChandra1c/Leetcode/tree/master/0242-valid-anagram) |
@@ -119,6 +120,7 @@ Leetcode submissions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanChandra1c/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/AmanChandra1c/Leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/AmanChandra1c/Leetcode/tree/master/0260-single-number-iii) |
@@ -220,6 +222,7 @@ Leetcode submissions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/AmanChandra1c/Leetcode/tree/master/0383-ransom-note) |
 | [1848-sum-of-unique-elements](https://github.com/AmanChandra1c/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AmanChandra1c/Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -241,6 +244,7 @@ Leetcode submissions
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanChandra1c/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AmanChandra1c/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
@@ -248,6 +252,7 @@ Leetcode submissions
 | [0088-merge-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/AmanChandra1c/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AmanChandra1c/Leetcode/tree/master/0242-valid-anagram) |
