@@ -69,6 +69,7 @@ Leetcode submissions
 | [0160-intersection-of-two-linked-lists](https://github.com/AmanChandra1c/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AmanChandra1c/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/AmanChandra1c/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AmanChandra1c/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AmanChandra1c/Leetcode/tree/master/0392-is-subsequence) |
@@ -122,6 +123,7 @@ Leetcode submissions
 | [0217-contains-duplicate](https://github.com/AmanChandra1c/Leetcode/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/AmanChandra1c/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/AmanChandra1c/Leetcode/tree/master/0283-move-zeroes) |
 | [0941-sort-array-by-parity](https://github.com/AmanChandra1c/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanChandra1c/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1580-shuffle-the-array](https://github.com/AmanChandra1c/Leetcode/tree/master/1580-shuffle-the-array) |
