@@ -154,6 +154,7 @@ Leetcode submissions
 | [0009-palindrome-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/AmanChandra1c/Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AmanChandra1c/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/AmanChandra1c/Leetcode/tree/master/0412-fizz-buzz) |
