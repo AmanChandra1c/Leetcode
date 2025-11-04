@@ -152,6 +152,7 @@ Leetcode submissions
 | ------- |
 | [0002-add-two-numbers](https://github.com/AmanChandra1c/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/AmanChandra1c/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/AmanChandra1c/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0263-ugly-number) |
@@ -241,6 +242,7 @@ Leetcode submissions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/AmanChandra1c/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/AmanChandra1c/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AmanChandra1c/Leetcode/tree/master/0260-single-number-iii) |
