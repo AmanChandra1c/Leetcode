@@ -154,6 +154,7 @@ Leetcode submissions
 | [0009-palindrome-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AmanChandra1c/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/AmanChandra1c/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/AmanChandra1c/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0268-missing-number) |
@@ -330,6 +331,7 @@ Leetcode submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AmanChandra1c/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AmanChandra1c/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmanChandra1c/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AmanChandra1c/Leetcode/tree/master/0392-is-subsequence) |
@@ -373,5 +375,6 @@ Leetcode submissions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AmanChandra1c/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AmanChandra1c/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
