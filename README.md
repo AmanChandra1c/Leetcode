@@ -159,6 +159,7 @@ Leetcode submissions
 | [0326-power-of-three](https://github.com/AmanChandra1c/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/AmanChandra1c/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/AmanChandra1c/Leetcode/tree/master/1013-fibonacci-number) |
 | [2083-three-divisors](https://github.com/AmanChandra1c/Leetcode/tree/master/2083-three-divisors) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AmanChandra1c/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2491-smallest-even-multiple](https://github.com/AmanChandra1c/Leetcode/tree/master/2491-smallest-even-multiple) |
@@ -199,6 +200,7 @@ Leetcode submissions
 | [0231-power-of-two](https://github.com/AmanChandra1c/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AmanChandra1c/Leetcode/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/AmanChandra1c/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -329,6 +331,7 @@ Leetcode submissions
 | [0118-pascals-triangle](https://github.com/AmanChandra1c/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmanChandra1c/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/AmanChandra1c/Leetcode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/AmanChandra1c/Leetcode/tree/master/1013-fibonacci-number) |
 | [2164-two-best-non-overlapping-events](https://github.com/AmanChandra1c/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Prefix Sum
 |  |
@@ -365,4 +368,8 @@ Leetcode submissions
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0838-design-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AmanChandra1c/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
