@@ -158,6 +158,7 @@ Leetcode submissions
 | [0231-power-of-two](https://github.com/AmanChandra1c/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/AmanChandra1c/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/AmanChandra1c/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/AmanChandra1c/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0507-perfect-number) |
@@ -377,4 +378,8 @@ Leetcode submissions
 | ------- |
 | [0070-climbing-stairs](https://github.com/AmanChandra1c/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AmanChandra1c/Leetcode/tree/master/1013-fibonacci-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/AmanChandra1c/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
