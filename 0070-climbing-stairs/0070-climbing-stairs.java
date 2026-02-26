@@ -1,17 +1,16 @@
 class Solution {
     public int climbStairs(int n) {
-        if (n <= 2) return n;
+        if(n <= 2) return n;
 
         int oneStepBefore = 2;
-        int twoStepsBefore = 1;
-        int total = 0;
+        int twoStepBefore = 1;
+        int ways = 0;
 
-        for (int i = 3; i <= n; i++) {
-            total = oneStepBefore + twoStepsBefore;
-            twoStepsBefore = oneStepBefore;
-            oneStepBefore = total;
+        for(int i = 3; i <= n; i++){
+            ways = oneStepBefore + twoStepBefore;
+            twoStepBefore = oneStepBefore;
+            oneStepBefore = ways;
         }
-
-        return total;
+        return ways;
     }
 }
