@@ -115,6 +115,7 @@ Leetcode submissions
 | [0035-search-insert-position](https://github.com/AmanChandra1c/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/AmanChandra1c/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/AmanChandra1c/Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/AmanChandra1c/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AmanChandra1c/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/AmanChandra1c/Leetcode/tree/master/0066-plus-one) |
@@ -262,6 +263,7 @@ Leetcode submissions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AmanChandra1c/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AmanChandra1c/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/AmanChandra1c/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AmanChandra1c/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
@@ -341,6 +343,7 @@ Leetcode submissions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AmanChandra1c/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/AmanChandra1c/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AmanChandra1c/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AmanChandra1c/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
