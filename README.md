@@ -131,6 +131,7 @@ Leetcode submissions
 | [0260-single-number-iii](https://github.com/AmanChandra1c/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AmanChandra1c/Leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/AmanChandra1c/Leetcode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/AmanChandra1c/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanChandra1c/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -274,6 +275,7 @@ Leetcode submissions
 | [0242-valid-anagram](https://github.com/AmanChandra1c/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/AmanChandra1c/Leetcode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/AmanChandra1c/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AmanChandra1c/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/AmanChandra1c/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
