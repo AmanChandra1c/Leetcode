@@ -8,6 +8,7 @@ Leetcode submissions
 | ------- |
 | [0001-two-sum](https://github.com/AmanChandra1c/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/AmanChandra1c/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/AmanChandra1c/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AmanChandra1c/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/AmanChandra1c/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AmanChandra1c/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -116,6 +117,7 @@ Leetcode submissions
 | [0035-search-insert-position](https://github.com/AmanChandra1c/Leetcode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/AmanChandra1c/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/AmanChandra1c/Leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/AmanChandra1c/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AmanChandra1c/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AmanChandra1c/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AmanChandra1c/Leetcode/tree/master/0055-jump-game) |
@@ -218,6 +220,7 @@ Leetcode submissions
 | ------- |
 | [0020-valid-parentheses](https://github.com/AmanChandra1c/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AmanChandra1c/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/AmanChandra1c/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AmanChandra1c/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AmanChandra1c/Leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/AmanChandra1c/Leetcode/tree/master/0179-largest-number) |
@@ -273,6 +276,7 @@ Leetcode submissions
 |  |
 | ------- |
 | [0018-4sum](https://github.com/AmanChandra1c/Leetcode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/AmanChandra1c/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/AmanChandra1c/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AmanChandra1c/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/AmanChandra1c/Leetcode/tree/master/0147-insertion-sort-list) |
